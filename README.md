@@ -1,6 +1,6 @@
 # LIBFT
 
-Libft is my self written std library used for upcoming projects during the Hive curriculum. It contains all kinds of functions from printing, via string manipulation to functions with memory allocation.
+Libft is my self written std library in #C used for upcoming projects during the Hive curriculum. It contains all kinds of functions from printing, via string manipulation to functions with memory allocation.
 
 ## Disclaimer
 
